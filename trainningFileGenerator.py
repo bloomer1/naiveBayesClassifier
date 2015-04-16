@@ -1,7 +1,7 @@
 import os
 
-path1 = '/home/rahul/work/csci544-hw1/SPAM_training'
-path2 = '/home/rahul/work/csci544-hw1/SENTIMENT_training'
+path1 = '/SPAM_training'
+path2 = '/SENTIMENT_training'
 
 listing1 = os.listdir(path1)
 listing2 = os.listdir(path2)
